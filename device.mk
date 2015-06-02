@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     chargeled \
     init.recovery.qcom.rc \
     offmode_charging_res_images \
+    dt.img \
     texfat.ko
 # Time Zone data
 PRODUCT_COPY_FILES += \
